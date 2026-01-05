@@ -8,7 +8,7 @@
 - **개발 기간**: 2024.12.22 ~ 2025.01.02 (2주)
 - **개발 인원**: x명
 - **주요 기술**:  
-<div style="padding-left:100px">
+		* <div style="padding-left:100px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
