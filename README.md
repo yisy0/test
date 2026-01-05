@@ -46,21 +46,33 @@
 [5. 프로젝트 결과](https://github.com/yisy0703/1stPersonalProject?tab=readme-ov-file#5-작업분할구조도)<br>
 
 ## 1. 프로젝트 소개
-![3서론1](https://github.com/user-attachments/assets/08459434-bbe9-4534-af8b-01bbcdafa5c6)
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/290ce786-24d8-41dd-8fa5-1c66a9a38d37" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7012a233-3982-4e5e-a637-8508aad7c922" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/dcc275cf-7490-4ae2-9fd5-9e201a28ab06" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/1b2bd558-6336-4dcc-ae3a-36613c3e0610" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/59378206-2236-42e5-857d-20ec7c695bb4" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fed574ac-e12d-4fee-b232-dfd8f3f4ef77" />
 
 ## 2. 데이터 수집 및 분석
-![4서론2](https://github.com/user-attachments/assets/d7e1beaa-77e5-4979-b81a-d909ab6ce1d9)
-![5서론3](https://github.com/user-attachments/assets/0155860c-5c89-494e-8711-9c09540e96ce)
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/32fdaf1d-6d98-4da5-948c-c6d7d375e1d5" />
 
 ## 3. 모델 개발
-![6ganttChart](https://github.com/user-attachments/assets/9a940acf-2415-4386-944a-606f85c9a0d9)
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/ba5dcf50-cdbe-4c13-bd7d-0e4d20663ac8" />
 
 ## 4. 웹 서비스 구현
-![7개발환경](https://github.com/user-attachments/assets/5020a1a1-bb96-4473-bd04-0dc6c0044548)
-![8빈칸](https://github.com/user-attachments/assets/a31422fa-802d-4b7d-bee2-9e24003fab5d)
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d86c53a5-bc6a-4809-b092-64d0747d2bcf" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/9d27a3cf-c4cc-4eb1-9d53-8868d6842f9f" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/14ef297b-bf08-4c49-b2f1-96ac13fab66f" />
 
 ##5. 프로젝트 결과
-![9작업분할도](https://github.com/user-attachments/assets/8f3e920b-b8b0-4c95-b2ac-0aa9f3c0672b)
+![](https://github.com/user-attachments/assets/b6848a03-d803-4062-bdb3-a1718804a195)
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/b6848a03-d803-4062-bdb3-a1718804a195" />
 
 ---
 
