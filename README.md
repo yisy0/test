@@ -76,9 +76,7 @@
 ---
 
 <div align="center">
-
-**KDT AI-X Program** | 2025-2026
-
+**(KDT) 기업맞춤형 AI+X 융복합** | 2025-2026
 </div>
 
 
