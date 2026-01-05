@@ -40,10 +40,10 @@
 ## 📑 목차
 
 [1. 프로젝트 소개](https://github.com/yisy0/test?tab=readme-ov-file#1-프로젝트-소개)<br>
-[2. 데이터 수집 및 분석](https://github.com/yisy0703/1stPersonalProject?tab=readme-ov-file#2-데이터-분석)<br>
-[3. 모델 개발](https://github.com/yisy0703/1stPersonalProject?tab=readme-ov-file#3-모델-개발)<br>
-[4. 웹 서비스](https://github.com/yisy0703/1stPersonalProject?tab=readme-ov-file#4-웹-서비스)<br>
-[5. 프로젝트 결과](https://github.com/yisy0703/1stPersonalProject?tab=readme-ov-file#5-프로젝트-결과)<br>
+[2. 데이터 수집 및 분석](https://github.com/yisy0/test?tab=readme-ov-file#2-데이터-분석)<br>
+[3. 모델 개발](https://github.com/yisy0/test?tab=readme-ov-file#3-모델-개발)<br>
+[4. 웹 서비스](https://github.com/yisy0/test?tab=readme-ov-file#4-웹-서비스)<br>
+[5. 프로젝트 결과](https://github.com/yisy0/test?tab=readme-ov-file#5-프로젝트-결과)<br>
 
 ## 1. 프로젝트 소개
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/290ce786-24d8-41dd-8fa5-1c66a9a38d37" />
