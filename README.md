@@ -79,6 +79,6 @@
 
 **KDT 기업맞춤형 AI+X 융복합** | 2025-2026
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/yisy0/test)
+![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
 
 </div>
