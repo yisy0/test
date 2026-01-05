@@ -56,7 +56,7 @@
 ## Modeling
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/ba5dcf50-cdbe-4c13-bd7d-0e4d20663ac8" />
 
-## 📊 Model Performance Comparison
+## 📊 Model Performance Comparison(ppt에 없으면 명시. ppt에 넣을 것 강추)
 
 | Model | Train Acc | Val Acc | F1-Score | AUC-ROC | Training Time | Note |
 |:------|:---------:|:-------:|:--------:|:-------:|:-------------:|:-----|
@@ -65,6 +65,7 @@
 | ⚡ XGBoost | 0.91 | 0.89 | 0.87 | 0.92 | 8 min | 높은 성능 |
 | 💡 **LightGBM** 🏆 | **0.92** | **0.91** | **0.89** | **0.94** | **6 min** | **최종 선택** |
 | 🐱 CatBoost | 0.91 | 0.90 | 0.88 | 0.93 | 10 min | LightGBM과 유사 |
+> 🏆 **최종 선택**: LightGBM이 검증 정확도와 학습 시간에서 가장 우수한 성능을 보였습니다.
 
 ##  Web Service Implementation
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/d86c53a5-bc6a-4809-b092-64d0747d2bcf" />
