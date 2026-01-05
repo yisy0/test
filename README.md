@@ -39,6 +39,7 @@
 | ⚡ XGBoost | 0.XX | 0.XX | 0.xx |  XX min |
 | 💡 LightGBM | **0.XX** | **0.XX** | 0.xx | XX min |
 | 🐱 CatBoost | 0.XX | 0.XX | 0.xx | XX min |
+
 *최종 선택 모델: LightGBM*
 
 ## 📑 목차
