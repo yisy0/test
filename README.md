@@ -81,12 +81,6 @@
 [![Video Title](https://img.youtube.com/vi/Plf0P_m5qbg/3.jpg)](https://youtu.be/Plf0P_m5qbg?si=Fx3lEvU6rlhwUxEc)
 *클릭하면 데모 영상을 볼 수 있습니다*
 
-</div>
-
-<div align="center">
-
-**KDT 기업맞춤형 AI+X 융복합** | 2024-2025
-
 ![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
 [![Demo](https://img.shields.io/badge/Demo-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
 
