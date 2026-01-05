@@ -32,13 +32,13 @@
 
 ## 📊 Model Performance Comparison
 
-| Model | Accuracy | F1-Score | Training Time |
+| Model | Accuracy | F1-Score | AUC | Training Time |
 |-------|----------|----------|---------------|
-| 🧠 Deep Learning | 0.XX | 0.XX | XX min |
-| 🌲 Random Forest | 0.XX | 0.XX | XX min |
-| ⚡ XGBoost | 0.XX | 0.XX | XX min |
-| 💡 LightGBM | **0.XX** | **0.XX** | XX min |
-| 🐱 CatBoost | 0.XX | 0.XX | XX min |
+| 🧠 Deep Learning | 0.XX | 0.XX | 0.xx | |XX min |
+| 🌲 Random Forest | 0.XX | 0.XX | 0.xx |  XX min |
+| ⚡ XGBoost | 0.XX | 0.XX | 0.xx |  XX min |
+| 💡 LightGBM | **0.XX** | **0.XX** | 0.xx | XX min |
+| 🐱 CatBoost | 0.XX | 0.XX | 0.xx | XX min |
 
 ## 📑 목차
 
