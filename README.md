@@ -79,10 +79,11 @@
 <div>
 
 [![Video Title](https://img.youtube.com/vi/Plf0P_m5qbg/3.jpg)](https://youtu.be/Plf0P_m5qbg?si=Fx3lEvU6rlhwUxEc)
+
 *클릭하면 데모 영상을 볼 수 있습니다*
 
-![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
 [![Demo](https://img.shields.io/badge/Demo-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
+![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
 
 **Contact**: your-email@example.com
 
