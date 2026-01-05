@@ -74,13 +74,22 @@
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/b6848a03-d803-4062-bdb3-a1718804a195" />
 
 ---
+## 🎬 Demo Video
+
+<div align="center">
+
+[![Video Title](https://github.com/user-attachments/assets/9d27a3cf-c4cc-4eb1-9d53-8868d6842f9f)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
+
+*클릭하면 데모 영상을 볼 수 있습니다*
+
+</div>
 
 <div align="center">
 
 **KDT 기업맞춤형 AI+X 융복합** | 2024-2025
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/yisy0/test)
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
+[![Demo](https://img.shields.io/badge/Demo-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
 
 **Contact**: your-email@example.com
 
