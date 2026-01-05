@@ -78,7 +78,7 @@
 
 <div align="center">
 
-[![Video Title](https://github.com/user-attachments/assets/9d27a3cf-c4cc-4eb1-9d53-8868d6842f9f)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
+[![Video Title](https://img.youtube.com/vi/Plf0P_m5qbg/3.jpg)](https://youtu.be/Plf0P_m5qbg?si=Fx3lEvU6rlhwUxEc)
 
 *클릭하면 데모 영상을 볼 수 있습니다*
 
