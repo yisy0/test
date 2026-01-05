@@ -73,7 +73,6 @@
 ## Project Results
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/b6848a03-d803-4062-bdb3-a1718804a195" />
 
----
 ## 🎬 Demo Video
 
 <div>
@@ -84,6 +83,6 @@
 [![Demo](https://img.shields.io/badge/Demo-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
 ![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
 
-**Contact**: hong@hong.com
-
-</div>
+## 📬 Contact
+**Email**: hong@hong.com  
+**GitHub**: [@yisy0](https://github.com/yisy0)
