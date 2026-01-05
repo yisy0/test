@@ -15,20 +15,20 @@
 	  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
 	  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	</div>
-	<div style="padding-left:150px">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logoColor=white">
-</div>
+	<div style="padding-left:100px">
+	  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+	  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+	  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
+	  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black">
+	  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logoColor=white">
+	</div>
 	<div style="padding-left:200px">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+	  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+	  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+	  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+	</div>
 
 **Implemented Models**
 - 🧠 Deep Learning (Neural Network)
