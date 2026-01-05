@@ -30,18 +30,6 @@
 	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 	</div>
 
-## 📊 Model Performance Comparison
-
-| Model | Train Acc | Val Acc | F1-Score | AUC-ROC | Training Time | Note |
-|:------|:---------:|:-------:|:--------:|:-------:|:-------------:|:-----|
-| 🧠 Deep Learning | 0.92 | 0.85 | 0.83 | 0.88 | 45 min | 과적합 경향 |
-| 🌲 Random Forest | 0.89 | 0.87 | 0.85 | 0.90 | 12 min | 안정적 |
-| ⚡ XGBoost | 0.91 | 0.89 | 0.87 | 0.92 | 8 min | 높은 성능 |
-| 💡 **LightGBM** 🏆 | **0.92** | **0.91** | **0.89** | **0.94** | **6 min** | **최종 선택** |
-| 🐱 CatBoost | 0.91 | 0.90 | 0.88 | 0.93 | 10 min | LightGBM과 유사 |
-
-> 🏆 **최종 모델**: LightGBM이 가장 높은 성능과 빠른 학습 속도를 보여 최종 선택
-
 ## 📑 목차
 
 [1. 프로젝트 소개](https://github.com/yisy0/test?tab=readme-ov-file#Project-Overview)<br>
@@ -67,6 +55,16 @@
 
 ## Modeling
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/ba5dcf50-cdbe-4c13-bd7d-0e4d20663ac8" />
+
+## 📊 Model Performance Comparison
+
+| Model | Train Acc | Val Acc | F1-Score | AUC-ROC | Training Time | Note |
+|:------|:---------:|:-------:|:--------:|:-------:|:-------------:|:-----|
+| 🧠 Deep Learning | 0.92 | 0.85 | 0.83 | 0.88 | 45 min | 과적합 경향 |
+| 🌲 Random Forest | 0.89 | 0.87 | 0.85 | 0.90 | 12 min | 안정적 |
+| ⚡ XGBoost | 0.91 | 0.89 | 0.87 | 0.92 | 8 min | 높은 성능 |
+| 💡 **LightGBM** 🏆 | **0.92** | **0.91** | **0.89** | **0.94** | **6 min** | **최종 선택** |
+| 🐱 CatBoost | 0.91 | 0.90 | 0.88 | 0.93 | 10 min | LightGBM과 유사 |
 
 ##  Web Service Implementation
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/d86c53a5-bc6a-4809-b092-64d0747d2bcf" />
