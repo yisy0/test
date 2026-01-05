@@ -77,8 +77,11 @@
 
 <div align="center">
 
-**KDT 기업맞춤형 AI+X 융복합** | 2025-2026
+**KDT 기업맞춤형 AI+X 융복합** | 2024-2025
 
-![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/yisy0/test)
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
+
+**Contact**: your-email@example.com
 
 </div>
