@@ -79,13 +79,37 @@
 
 ## 🎬 Demo Video
 
-<div>
-
 [![Video Title](https://img.youtube.com/vi/Plf0P_m5qbg/3.jpg)](https://youtu.be/Plf0P_m5qbg?si=Fx3lEvU6rlhwUxEc)
 *클릭하면 데모 영상을 볼 수 있습니다*
 
 [![Demo](https://img.shields.io/badge/Demo-success?style=flat-square)](https://youtu.be/Plf0P_m5qbg?si=j7dAn5hjBBsjYa9J)
 ![Commits](https://img.shields.io/github/commit-activity/m/yisy0/test)
+
+## 📂 Repository Structure
+```
+project/
+├── 01_Analysis&Design/
+│   ├── aa/                # 원본 데이터
+│   └── bb/        # 전처리된 데이터
+├── 02_DataProcessing/
+│   ├── aa.ipynb          # 설명
+│   └── bb.ipynb          # 설명
+├── 03_DLModelDevelop/
+│   ├── preprocessing.py  # 독립변수 선별
+│   ├── dl_models.ipynb  # DeepLearning 모델 개발
+│   ├── ml_models.ipynb  # machine Learning 모델 구현
+│   ├── models.ipynb      # 모델별 성능 비교
+│   └── utils.py              # 유틸리티 함수
+├── 04_flaskWebService/
+│   ├── app.py           # Flask 앱
+│   ├── models.py           # Flask 앱
+│   ├── utils.py           # Flask 앱
+│   ├── templates/     # HTML 템플릿
+│   └── static/          # CSS, JS, model(h5, joblib파일)
+├── 발표본.pdf          
+├── 작업일지.docx
+└── README.md
+```
 
 ## 📬 Contact
 **Email**: yisy0703@naver.com  
