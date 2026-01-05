@@ -30,12 +30,15 @@
 	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 	</div>
 
-## 📋 Implemented Models
-- 🧠 Deep Learning (Neural Network)
-- 🌲 Random Forest
-- ⚡ XGBoost
-- 💡 LightGBM
-- 🐱 CatBoost
+## 📊 Model Performance Comparison
+
+| Model | Accuracy | F1-Score | Training Time |
+|-------|----------|----------|---------------|
+| 🧠 Deep Learning | 0.XX | 0.XX | XX min |
+| 🌲 Random Forest | 0.XX | 0.XX | XX min |
+| ⚡ XGBoost | 0.XX | 0.XX | XX min |
+| 💡 LightGBM | **0.XX** | **0.XX** | XX min |
+| 🐱 CatBoost | 0.XX | 0.XX | XX min |
 
 ## 📑 목차
 
