@@ -39,13 +39,13 @@
 
 ## 📑 목차
 
-[1. 프로젝트 소개](https://github.com/yisy0/test?tab=readme-ov-file#1-프로젝트-소개)<br>
-[2. 데이터 수집 및 분석](https://github.com/yisy0/test?tab=readme-ov-file#2-데이터-분석)<br>
-[3. 모델 개발](https://github.com/yisy0/test?tab=readme-ov-file#3-모델-개발)<br>
-[4. 웹 서비스](https://github.com/yisy0/test?tab=readme-ov-file#4-웹-서비스)<br>
-[5. 프로젝트 결과](https://github.com/yisy0/test?tab=readme-ov-file#5-프로젝트-결과)<br>
+[1. 프로젝트 소개](https://github.com/yisy0/test?tab=readme-ov-file#Project-Overview)<br>
+[2. 데이터 수집 및 분석](https://github.com/yisy0/test?tab=readme-ov-file#Data-Preprocessing)<br>
+[3. 모델 개발](https://github.com/yisy0/test?tab=readme-ov-file#Modeling)<br>
+[4. 웹 서비스](https://github.com/yisy0/test?tab=readme-ov-file#Web)<br>
+[5. 프로젝트 결과](https://github.com/yisy0/test?tab=readme-ov-file# Web-Service-Implementation)<br>
 
-## 1. 프로젝트 소개
+## Project Overview
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/290ce786-24d8-41dd-8fa5-1c66a9a38d37" />
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7012a233-3982-4e5e-a637-8508aad7c922" />
@@ -57,13 +57,13 @@
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/59378206-2236-42e5-857d-20ec7c695bb4" />
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fed574ac-e12d-4fee-b232-dfd8f3f4ef77" />
 
-## 2. 데이터 분석
+## Data Preprocessing
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/32fdaf1d-6d98-4da5-948c-c6d7d375e1d5" />
 
-## 3. 모델 개발
+## Modeling
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/ba5dcf50-cdbe-4c13-bd7d-0e4d20663ac8" />
 
-## 4. 웹 서비스
+##  Web Service Implementation
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d86c53a5-bc6a-4809-b092-64d0747d2bcf" />
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/9d27a3cf-c4cc-4eb1-9d53-8868d6842f9f" />
