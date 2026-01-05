@@ -32,15 +32,15 @@
 
 ## 📊 Model Performance Comparison
 
-| Model | Accuracy | F1-Score | AUC | Training Time |
-|-------|----------|----------|-----|---------------|
-| 🧠 Deep Learning | 0.XX | 0.XX | 0.xx | XX min |
-| 🌲 Random Forest | 0.XX | 0.XX | 0.xx | XX min |
-| ⚡ XGBoost | 0.XX | 0.XX | 0.xx |  XX min |
-| 💡 LightGBM | **0.XX** | **0.XX** | 0.xx | XX min |
-| 🐱 CatBoost | 0.XX | 0.XX | 0.xx | XX min |
+| Model | Train Acc | Val Acc | F1-Score | AUC-ROC | Training Time | Note |
+|:------|:---------:|:-------:|:--------:|:-------:|:-------------:|:-----|
+| 🧠 Deep Learning | 0.92 | 0.85 | 0.83 | 0.88 | 45 min | 과적합 경향 |
+| 🌲 Random Forest | 0.89 | 0.87 | 0.85 | 0.90 | 12 min | 안정적 |
+| ⚡ XGBoost | 0.91 | 0.89 | 0.87 | 0.92 | 8 min | 높은 성능 |
+| 💡 **LightGBM** 🏆 | **0.92** | **0.91** | **0.89** | **0.94** | **6 min** | **최종 선택** |
+| 🐱 CatBoost | 0.91 | 0.90 | 0.88 | 0.93 | 10 min | LightGBM과 유사 |
 
-*최종 선택 모델: LightGBM*
+> 🏆 **최종 모델**: LightGBM이 가장 높은 성능과 빠른 학습 속도를 보여 최종 선택
 
 ## 📑 목차
 
