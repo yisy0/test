@@ -46,27 +46,27 @@
 [5. 프로젝트 결과](https://github.com/yisy0/test?tab=readme-ov-file#project-results)<br>
 
 ## Project Overview
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/290ce786-24d8-41dd-8fa5-1c66a9a38d37" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/290ce786-24d8-41dd-8fa5-1c66a9a38d37" />
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7012a233-3982-4e5e-a637-8508aad7c922" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/7012a233-3982-4e5e-a637-8508aad7c922" />
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/dcc275cf-7490-4ae2-9fd5-9e201a28ab06" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/dcc275cf-7490-4ae2-9fd5-9e201a28ab06" />
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/1b2bd558-6336-4dcc-ae3a-36613c3e0610" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/1b2bd558-6336-4dcc-ae3a-36613c3e0610" />
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/59378206-2236-42e5-857d-20ec7c695bb4" />
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fed574ac-e12d-4fee-b232-dfd8f3f4ef77" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/59378206-2236-42e5-857d-20ec7c695bb4" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/fed574ac-e12d-4fee-b232-dfd8f3f4ef77" />
 
 ## Data Preprocessing
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/32fdaf1d-6d98-4da5-948c-c6d7d375e1d5" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/32fdaf1d-6d98-4da5-948c-c6d7d375e1d5" />
 
 ## Modeling
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/ba5dcf50-cdbe-4c13-bd7d-0e4d20663ac8" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/ba5dcf50-cdbe-4c13-bd7d-0e4d20663ac8" />
 
 ##  Web Service Implementation
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d86c53a5-bc6a-4809-b092-64d0747d2bcf" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/d86c53a5-bc6a-4809-b092-64d0747d2bcf" />
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/9d27a3cf-c4cc-4eb1-9d53-8868d6842f9f" />
+<img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/9d27a3cf-c4cc-4eb1-9d53-8868d6842f9f" />
 
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/14ef297b-bf08-4c49-b2f1-96ac13fab66f" />
 
